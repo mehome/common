@@ -4,5 +4,6 @@
 *.out
 *.exe
 \.*.swp
+\.*.swo
 tags
 
