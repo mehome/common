@@ -3,6 +3,6 @@
 *.so
 *.out
 *.exe
-\*.swp
+\.*.swp
 tags
 

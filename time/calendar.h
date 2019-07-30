@@ -1,5 +1,5 @@
-#ifndef _3761_CALENDAR_H__
-#define _3761_CALENDAR_H__
+#ifndef _CALENDAR_H_
+#define _CALENDAR_H_
 #include <ctime>
 #include <string>
 using namespace std;
@@ -46,4 +46,4 @@ public:
 	int yearday	(void)const{return calendar.tm_yday;}
 };
 
-#endif//_3761_CALENDAR_H__
+#endif//_CALENDAR_H_
