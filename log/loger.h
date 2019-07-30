@@ -1,5 +1,5 @@
-#ifndef _3761_LOGER_H_
-#define _3761_LOGER_H_
+#ifndef _LOGER_H_
+#define _LOGER_H_
 #include <ctime>
 #include <string>
 #include <fstream>
@@ -72,4 +72,4 @@ public:
 	}
 };
 
-#endif//_3761_LOGER_H_
+#endif//_LOGER_H_
